@@ -26,14 +26,13 @@ assets/            # Imagens e recursos visuais
 
 Este site foi criado como portfólio para demonstrar habilidades em desenvolvimento front-end, design UI/UX e atenção aos detalhes. Ideal para clínicas de estética, profissionais de beleza ou qualquer negócio que deseje uma presença online marcante.
 
-## 👨‍💻 Autor
-
-Desenvolvido por [Lucas Ferreira](https://lucas.ferreiradev.com/)
-
-## 📬 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
 - [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
 
 ---
 
