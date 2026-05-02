@@ -17,7 +17,7 @@ Acesse o site: [https://lucasferreiraprogramador.github.io/site-estetica/](https
 ## 📁 Estrutura do Projeto
                     
 ```
-index.html         # Página principal
+index.html         # Página principal         
 style.css          # Estilos customizados
 assets/            # Imagens e recursos visuais
 ```
